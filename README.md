@@ -48,4 +48,28 @@ pip install PyQt5 qdarkstyle
 
 ```
 
+---
+
+## ⚠️ Nota de Laboratorio
+
+Asegúrate de mantener el archivo precisionslider.py en la misma carpeta del proyecto para habilitar los controles verticales de alta fidelidad. Si no se encuentra, el sistema aplicará un fallback seguro al QSlider nativo.
+
+---
+
+## 📂 Línea de Tiempo del Circo de Monos
+
+v4.6 (Demo Testing) — geckonotes.py: Lanzamiento con el módulo de Portabilidad Geckónica habilitado (Backup y restauración en .tar.gz). Depuración completa de algoritmos y caza de metadatos zombies al eliminar archivos.
+
+v4.3 — [Under Testing]: Pruebas de integración del motor de compresión y testeo de colisiones de nombres de archivos.
+
+v4.0 — [Release Inicial]: Introducción del concepto de memoria eidética, la persistencia en JSON ("Sheison") y el diseño transparente integrado al ecosistema oscuro de qdarkstyle.
+
+---
+
+## 🦎 Filosofía del Team Cangurera
+Las abstracciones sobre-abstraídas son capas sin sentido de complejidad que los que se creen "inteligentes" inventan para ofuscar y enmascarar el conocimiento. Hacer parecer difícil una tarea elimina la competencia, pero a la vez complejiza exponencialmente la curva de aprendizaje.
+
+GeckoNotes demuestra que la verdadera usabilidad ocurre cuando la herramienta desaparece y solo queda la intención pura del creador 🚀🧠🌈🔥.
+
+Desarrollado, testeado y perfeccionado en los laboratorios del: 
 🦎 Monkey Python Coding Circus by Alan.RG Systemas & Team Cangurera 🦎
