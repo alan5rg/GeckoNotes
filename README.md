@@ -45,3 +45,7 @@ Para correr la demo testing en un entorno limpio, solo necesitas el motor de Pyt
 
 ```bash
 pip install PyQt5 qdarkstyle
+
+```
+
+🦎 Monkey Python Coding Circus by Alan.RG Systemas & Team Cangurera 🦎
